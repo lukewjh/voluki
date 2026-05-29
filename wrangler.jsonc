@@ -1,0 +1,5 @@
+{
+  "name": "voluki",
+  "main": "dist/_worker.js",
+  "compatibility_date": "2025-01-01"
+}
